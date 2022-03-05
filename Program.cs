@@ -1,5 +1,5 @@
 ﻿// Author : Elyane Mehiyeva
-/*
+
 int total = 0;
 int[] array = { 12,45,3,1,67,32,8,100};
 //               |  | | | |   | |   |
@@ -12,8 +12,8 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 Console.WriteLine(total);
-*/
-/*
+
+
 string text = "Elyane Mehiyeva";
 char axtarilanHerf = 'e';
 int count = 0;
@@ -32,11 +32,11 @@ if (count == 0)
     Console.WriteLine("Axtarilan herfden metnde " + count  + " dene var");
 }
 
-*/
 
 
 
-/*
+
+
 Console.WriteLine("Bir eded verilir hemin ededin ikinin quvveti olub olmadigi tapilir");
 int number = 15;
 int netice = 1;
@@ -64,7 +64,7 @@ else
     }
 
 }
-*/
+
 
 /*
  * 4 mart taski
